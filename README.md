@@ -6,19 +6,30 @@ Topics :
 3. Arrays
 4. Python Lists
 5. Build in data structures 
+
       5.1 Dictionaries 
+      
       5.2 Tuples
+
 6. Linked lists
       6.1 Single LL
+      
       6.2 Circular single LL
+      
       6.3 Double LL
+      
       6.4 Circular double LL
+ 
 7. Stacks and Queue
 8. Tree/ Binary Tree
         8.1 Pre order traversal
+        
         8.2 In order traversal
+        
         8.3 Post order traversal
+        
         8.4 Level order traversal
+        
 9. Binary Search tree
 10. AVL tree
       10.1 Left left condition
