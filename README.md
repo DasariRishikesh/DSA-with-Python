@@ -9,7 +9,6 @@ Topics :
 
    5.1 Dictionaries 
    5.2 Tuples
-   
 6. Linked lists
 
   6.1 Single LL
