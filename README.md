@@ -22,15 +22,16 @@ Topics :
       6.4 Circular double LL
  
 7. Stacks and Queue
+
 8. Tree/ Binary Tree
 
-        8.1 Pre order traversal
+     8.1 Pre order traversal
         
-        8.2 In order traversal
+     8.2 In order traversal
         
-        8.3 Post order traversal
+     8.3 Post order traversal
         
-        8.4 Level order traversal
+     8.4 Level order traversal
         
 9. Binary Search tree
 10. AVL tree
