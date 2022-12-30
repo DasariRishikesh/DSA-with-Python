@@ -1,4 +1,4 @@
-# DSA-and-OOPs-with-Python
+# DSA with Python
 This is the workspace for the practice of data structures  and object oriented programming in python language with google colab
 Topics :
 1. Recursion
